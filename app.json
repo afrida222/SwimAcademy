@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./main.jsx",
     "name": "EasyCatalog",
     "slug": "EasyCatalog",
     "version": "1.0.0",
